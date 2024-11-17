@@ -3,7 +3,7 @@
 - 👀 Estou interessado em **desenvolvimento web**, especialmente em **React** e **desenvolvimento Fullstack**.  
 - 🌱 Atualmente, estou aprendendo mais sobre **TypeScript**, **Vite**, e **Firebase**. Também estou explorando melhores práticas em **design responsivo** e **acessibilidade**.  
 - 💞️ Estou procurando colaborar em projetos que utilizem **React**, **Firebase**, e que envolvam integração de APIs.  
-- 📫 Você pode me contatar pelo e-mail: [yurimahcado.dev@gmail.com](yurimahcado.dev@gmail.com) ou pelo LinkedIn: [linkedin.com/in/yuridevops](https://www.linkedin.com/in/yuridevops/).  
+- 📫 Você pode me contatar pelo e-mail: [yurimachado.dev@gmail.com](yurimachado.dev@gmail.com) ou pelo LinkedIn: [linkedin.com/in/yuridevops](https://www.linkedin.com/in/yuridevops/).  
 - 😄 Pronomes: **ele/dele**.  
 - ⚡ Curiosidade: Tenho uma paixão por resolver **desafios de programação** e gosto de compartilhar o que aprendo em blogs e vídeos!  
 
