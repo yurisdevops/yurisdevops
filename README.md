@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou @yurisdevops  
+# 👋 Olá, eu sou Yuri Souza  
 
 - 👀 Estou interessado em **desenvolvimento web**, especialmente em **React** e **desenvolvimento Fullstack**.  
 - 🌱 Atualmente, estou aprendendo mais sobre **TypeScript**, **Vite**, e **Firebase**. Também estou explorando melhores práticas em **design responsivo** e **acessibilidade**.  
