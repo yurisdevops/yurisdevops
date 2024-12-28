@@ -4,11 +4,11 @@ Desenvolvedor Web apaixonado por criar soluções inovadoras e eficientes. Focad
 
 ## 🚀 Sobre Mim
 
-- 🔭 Atualmente, trabalho como desenvolvedor full-stack com foco em **Front-end** e **Back-end**.
-- 🌱 Aprendendo mais sobre **TypeScript**, **Node.js**, **Docker** e **GraphQL**.
+- 🔭 Atualmente, trabalho como desenvolvedor web com foco em **Front-end**.
+- 🌱 Aprendendo mais sobre **TypeScript**, **Node.js** e **NExtJs""
 - 👯 Aberto a colaborações em projetos **open-source**.
 - 💬 Pergunte-me sobre **React**, **Firebase**, **Node.js** e **TypeScript**.
-- ⚡ Curioso sobre **performance de aplicações**, **UX/UI design** e **DevOps**.
+- ⚡ Curioso sobre **performance de aplicações**.
 
 ## 💻 Tecnologias & Ferramentas
 
@@ -57,7 +57,7 @@ A aplicação rganiza de maneira eficiente o gerenciamento de professores, turma
 
 ## 📫 Como me encontrar
 
-- **Email:** yuri.souza@example.com
+- **Email:** yurimachado.dev@gmail.com
 - **LinkedIn:** [Yuri Souza](https://www.linkedin.com/in/yurisdevops/)
 
 ## 🔗 Contato
@@ -66,5 +66,5 @@ Se você está interessado em colaborar em projetos ou discutir ideias, fique à
 
 ---
 
-> "O código bem escrito é aquele que é claro e fácil de entender." - Yuri Souza
+> "O código bem escrito é aquele que é claro e fácil de entender."
 ```
