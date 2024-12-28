@@ -58,7 +58,7 @@ A aplicação rganiza de maneira eficiente o gerenciamento de professores, turma
 ## 📫 Como me encontrar
 
 - **Email:** yurimachado.dev@gmail.com
-- **LinkedIn:** [Yuri Souza](https://www.linkedin.com/in/yurisdevops/)
+- **LinkedIn:** [Yuri Souza](https://www.linkedin.com/in/yuridevops/)
 
 ## 🔗 Contato
 
