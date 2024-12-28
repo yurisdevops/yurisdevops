@@ -25,6 +25,8 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
 - ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white)
 - ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=flat-square&logo=firebase&logoColor=black)
 - ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=flat-square&logo=tailwindcss&logoColor=white)
+- ![Auth.js](https://img.shields.io/badge/Auth.js-%232D3748.svg?&style=flat-square&logo=auth0&logoColor=white)
 
 
 ### ⚙️ **Outras Ferramentas e Serviços**
@@ -49,9 +51,9 @@ Plataforma para compra e venda de veículos com **React**, **Firebase** e **Zod*
 
 Aplicação de gerenciamento de tarefas com autenticação via **Google** e interações por comentários, usando **Next.js** e **Firebase**.
 
-### 📚 **[Blog de Desenvolvimento](https://github.com/yurisdevops/blog-dev)**
+### 📚 **[EduControl](https://github.com/yurisdevops/educontrol)**
 
-Blog com tutoriais sobre **React**, **Node.js** e **TypeScript**.
+A aplicação rganiza de maneira eficiente o gerenciamento de professores, turmas, alunos e eventos, com foco na segurança e na facilidade de uso.
 
 ## 📫 Como me encontrar
 
