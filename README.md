@@ -1,46 +1,68 @@
-# 👋 Olá, eu sou Yuri Souza  
+# Olá, eu sou Yuri Souza 👋
 
-- 👀 Estou interessado em **desenvolvimento web**, especialmente em **React** e **desenvolvimento Fullstack**.  
-- 🌱 Atualmente, estou aprendendo mais sobre **TypeScript**, **Vite**, e **Firebase**. Também estou explorando melhores práticas em **design responsivo** e **acessibilidade**.  
-- 💞️ Estou procurando colaborar em projetos que utilizem **React**, **Firebase**, e que envolvam integração de APIs.  
-- 📫 Você pode me contatar pelo e-mail: [yurimachado.dev@gmail.com](yurimachado.dev@gmail.com) ou pelo LinkedIn: [linkedin.com/in/yuridevops](https://www.linkedin.com/in/yuridevops/).  
-- 😄 Pronomes: **ele/dele**.  
-- ⚡ Curiosidade: Tenho uma paixão por resolver **desafios de programação** e gosto de compartilhar o que aprendo em blogs e vídeos!  
+Desenvolvedor Web apaixonado por criar soluções inovadoras e eficientes. Focado em **Front-end** e **Back-end**, tenho experiência em criar aplicações web dinâmicas e responsivas com as mais modernas tecnologias. Estou sempre em busca de novos desafios e aprendizados.
 
-## Habilidades  
+## 🚀 Sobre Mim
 
-- **Front-end**: React, Redux, JavaScript, TypeScript, HTML5, CSS3, Vite  
-- **Back-end**: Firebase, Node.js  
-- **Ferramentas**: Git, Docker, Visual Studio Code  
-- **Metodologias**: Agile, Scrum  
+- 🔭 Atualmente, trabalho como desenvolvedor full-stack com foco em **Front-end** e **Back-end**.
+- 🌱 Aprendendo mais sobre **TypeScript**, **Node.js**, **Docker** e **GraphQL**.
+- 👯 Aberto a colaborações em projetos **open-source**.
+- 💬 Pergunte-me sobre **React**, **Firebase**, **Node.js** e **TypeScript**.
+- ⚡ Curioso sobre **performance de aplicações**, **UX/UI design** e **DevOps**.
 
-## Projetos em Destaque  
+## 💻 Tecnologias & Ferramentas
 
-- 🌐 [EduControl](https://educontrol.vercel.app/):  O EduControl é uma plataforma de gerenciamento de instituições de ensino que facilita o controle de turmas, alunos, professores e eventos em seus calendários. A aplicação oferece acessos diferenciados para professores e instituições, garantindo uma administração eficiente e acompanhamento do desempenho acadêmico.
-Tecnologias Utilizadas: **Frontend:** React, Vite, TypeScript, Tailwind CSS **Back-end:** Firebase **Validação de Dados:** Zod **Bibliotecas Adicionais:** Bibliotecas para notificações e gerenciamento de calendários.  
+Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
 
-- 🌐 [DevCurency](https://cripto-iota.vercel.app/): O DevCurency é um projeto desenvolvido utilizando Vite, React, TypeScript, CSS Modules e integração com uma API externa de criptomoedas. Esta aplicação web permite aos usuários visualizar informações sobre diferentes criptomoedas, como nome, valor de mercado, volume e variação de valor. Além disso, os usuários podem realizar buscas personalizadas por suas moedas preferidas através do nome. O DevCurency é totalmente responsivo para dispositivos móveis.
-Tecnologias Utilizadas: **Frontend:** React, Vite, TypeScript, Css Modules **Backend:** Consumo de API
+### 🛠 **Ferramentas de Desenvolvimento**
 
-- 🌐 [WebCarros](https://webcarros-beta.vercel.app/): Descrição: O Web Carros é uma aplicação web que simula um site de vendas de automóveis, inspirado na plataforma Webmotors. O projeto permite a busca, visualização e filtragem de veículos à venda, proporcionando uma experiência intuitiva e fácil de usar para os visitantes.
-Tecnologias Utilizadas: **Frontend:** React, Vite, TypeScript **Back-end:** Firebase **Validação de Dados:** Zod
- 
-- 🌐 [DevShop](https://devshop-seven.vercel.app/): O DevShop é uma mini loja online que permite aos usuários explorar e adquirir produtos de um catálogo fornecido por uma API externa de ecommerce. Desenvolvida com React, TypeScript, Tailwind CSS e Context API, esta aplicação oferece funcionalidades essenciais para uma experiência de compra intuitiva e interativa.
- Tecnologias Utilizadas: **Frontend:** React, Vite, TypeScript, Tailwind CSS **Back-end:** Consumo de API 
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)
+- ![React](https://img.shields.io/badge/React-%23282C34.svg?&style=flat-square&logo=react&logoColor=61DAFB)
+- ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=node.js&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=flat-square&logo=firebase&logoColor=black)
+- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white)
 
-- 🌐 [Previsão do Tempo](https://react-previsao-tempo.vercel.app/): O projeto Previsão do Tempo é uma aplicação web desenvolvida utilizando React.js, CSS e integração com uma API externa de previsão do tempo. Esta aplicação permite aos usuários buscar informações sobre a previsão do tempo de uma determinada cidade. As informações incluem temperatura média, mínima e máxima, umidade do ar, velocidade do vento e descrição do clima, como nublado, chuva intensa, ensolarado, entre outros. Além disso, o plano de fundo da aplicação é alterado dinamicamente de acordo com a descrição do clima da cidade pesquisada.
- Tecnologias Utilizadas: **Frontend:** React, Javascript e CSS **Back-end:** Consumo de API
 
-- 🌐 [DevLinks](https://devlinks-steel.vercel.app/): DEVLINK é uma aplicação web que emula o popular serviço de agrupamento de links, Linktree. Desenvolvido com tecnologias modernas, o DEVLINK permite aos usuários organizar e compartilhar seus links de redes sociais e outras plataformas de forma intuitiva e personalizável.
- Tecnologias Utilizadas: **Frontend:** React, Vite, TypeScript, Tailwind CSS **Back-end:** Firebase
+### ⚙️ **Outras Ferramentas e Serviços**
 
-## Aprendizados Recentes  
+- ![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
+- ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?&style=flat-square&logo=vercel&logoColor=white)
+- ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?&style=flat-square&logo=netlify&logoColor=white)
 
-- Como configurar um projeto com Vite para um ambiente de desenvolvimento React otimizado.  
-- Integração do Firebase com aplicações React para autenticação e armazenamento de dados.  
-- Avanços em TypeScript e como melhorar a qualidade do código e a manutenção dos projetos.  
+## 📈 Estatísticas do GitHub
 
-<!---  
-yurisdevops/yurisdevops é um ✨ repositório especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.  
-Você pode clicar no link de Visualização para ver as suas alterações.  
---->  
+![Yuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurisdevops&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 🌱 Projetos em Destaque
+
+Aqui estão alguns dos meus projetos mais recentes:
+
+### 🚗 **[WebCarros](https://github.com/yurisdevops/webcarros)**
+
+Plataforma para compra e venda de veículos com **React**, **Firebase** e **Zod**.
+
+### 📝 **[Notely+](https://github.com/yurisdevops/notely-plus)**
+
+Aplicação de gerenciamento de tarefas com autenticação via **Google** e interações por comentários, usando **Next.js** e **Firebase**.
+
+### 📚 **[Blog de Desenvolvimento](https://github.com/yurisdevops/blog-dev)**
+
+Blog com tutoriais sobre **React**, **Node.js** e **TypeScript**.
+
+## 📫 Como me encontrar
+
+- **Email:** yuri.souza@example.com
+- **LinkedIn:** [Yuri Souza](https://www.linkedin.com/in/yurisdevops/)
+
+## 🔗 Contato
+
+Se você está interessado em colaborar em projetos ou discutir ideias, fique à vontade para me contatar!
+
+---
+
+> "O código bem escrito é aquele que é claro e fácil de entender." - Yuri Souza
+```
