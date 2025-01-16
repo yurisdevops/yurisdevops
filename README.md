@@ -5,7 +5,7 @@ Desenvolvedor Web apaixonado por criar soluções inovadoras e eficientes. Focad
 ## 🚀 Sobre Mim
 
 - 🔭 Atualmente, trabalho como desenvolvedor web com foco em **Front-end**.
-- 🌱 Aprendendo mais sobre **TypeScript**, **Node.js** e **NExtJs""
+- 🌱 Aprendendo mais sobre **TypeScript**, **Node.js** e **NextJs""
 - 👯 Aberto a colaborações em projetos **open-source**.
 - 💬 Pergunte-me sobre **React**, **Firebase**, **Node.js** e **TypeScript**.
 - ⚡ Curioso sobre **performance de aplicações**.
