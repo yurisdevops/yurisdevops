@@ -40,17 +40,21 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-### 🚗 **[WebCarros](https://github.com/yurisdevops/webcarros)**
+### 📚 **[Tem Chamado?](https://github.com/yurisdevops/temchamado)**
 
-Plataforma para compra e venda de veículos com **React**, **Firebase** e **Zod**.
+Plataforma para chamados desenvolvida com **React**, **NextJS** **Typescript**, **Prisma**, **MongoDB**, **NextAuth**, **Tailwind CSS** e **Zod**.
 
-### 📝 **[Notely+](https://github.com/yurisdevops/notely-plus)**
+### 📚 **[Notely+](https://github.com/yurisdevops/notely-plus)**
 
 Aplicação de gerenciamento de tarefas com autenticação via **Google** e interações por comentários, usando **Next.js** e **Firebase**.
 
-### 📚 **[EduControl](https://github.com/yurisdevops/educontrol)**
+### 📚 **[DalyGames](https://github.com/yurisdevops/dalygames)**
 
-A aplicação rganiza de maneira eficiente o gerenciamento de professores, turmas, alunos e eventos, com foco na segurança e na facilidade de uso.
+Plataforma de catalogo de games desenvolvida com **React**, **NextJS** **Typescript** e **Tailwind CSS**.
+
+### 📚 **[DevMotors](https://github.com/yurisdevops/devmotors)**
+
+Plataforma de uma loja mecânica de carros desenvolvida com  **React**, **NextJS** **Typescript**, **Cosmic CMS** e  **Sass**.
 
 ## 📫 Como me encontrar
 
@@ -61,4 +65,3 @@ A aplicação rganiza de maneira eficiente o gerenciamento de professores, turma
 
 Se você está interessado em colaborar em projetos ou discutir ideias, fique à vontade para me contatar!
 
----
