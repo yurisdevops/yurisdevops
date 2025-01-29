@@ -36,10 +36,6 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
 - ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?&style=flat-square&logo=vercel&logoColor=white)
 - ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?&style=flat-square&logo=netlify&logoColor=white)
 
-## 📈 Estatísticas do GitHub
-
-![Yuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurisdevops&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ## 🌱 Projetos em Destaque
 
 Aqui estão alguns dos meus projetos mais recentes:
