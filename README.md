@@ -5,7 +5,7 @@ Desenvolvedor Web apaixonado por criar soluções inovadoras e eficientes. Focad
 ## 🚀 Sobre Mim
 
 - 🔭 Atualmente, trabalho como desenvolvedor web com foco em **Front-end**.
-- 🌱 Aprendendo mais sobre **TypeScript**, **Node.js** e **NextJs""
+- 🌱 Aprendendo mais sobre **TypeScript**, **Node.js** e **Next.js**
 - 👯 Aberto a colaborações em projetos **open-source**.
 - 💬 Pergunte-me sobre **React**, **Firebase**, **Node.js** e **TypeScript**.
 - ⚡ Curioso sobre **performance de aplicações**.
@@ -24,10 +24,11 @@ Aqui estão algumas das tecnologias que utilizo no meu dia a dia:
 - ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=node.js&logoColor=white)
 - ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white)
 - ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=flat-square&logo=firebase&logoColor=black)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
+- ![Prisma](https://img.shields.io/badge/Prisma-%23000000.svg?&style=flat-square&logo=prisma&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=flat-square&logo=tailwindcss&logoColor=white)
 - ![Auth.js](https://img.shields.io/badge/Auth.js-%232D3748.svg?&style=flat-square&logo=auth0&logoColor=white)
-
 
 ### ⚙️ **Outras Ferramentas e Serviços**
 
@@ -58,13 +59,10 @@ A aplicação rganiza de maneira eficiente o gerenciamento de professores, turma
 ## 📫 Como me encontrar
 
 - **Email:** yurimachado.dev@gmail.com
-- **LinkedIn:** [Yuri Souza](https://www.linkedin.com/in/yuridevops/)
+- **LinkedIn:** [Yuri Souza](https://www.linkedin.com/in/yurisdevops/)
 
 ## 🔗 Contato
 
 Se você está interessado em colaborar em projetos ou discutir ideias, fique à vontade para me contatar!
 
 ---
-
-> "O código bem escrito é aquele que é claro e fácil de entender."
-```
