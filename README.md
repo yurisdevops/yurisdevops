@@ -60,6 +60,7 @@ Plataforma de uma loja mecânica de carros desenvolvida com  **React**, **NextJS
 
 - **Email:** yurimachado.dev@gmail.com
 - **LinkedIn:** [Yuri Souza](https://www.linkedin.com/in/yurisdevops/)
+- **Portfolio:** [DevYuri](https://devyuri.vercel.app/)
 
 ## 🔗 Contato
 
